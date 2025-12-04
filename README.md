@@ -13,7 +13,7 @@
 - **Frontend:** React, TypeScript
 - **Стилизация:** CSS Modules, CSS Custom Properties
 - **Инструменты разработки:** Storybook (для документирования компонентов), ESLint, Stylelint, Prettier
-- **Сборка:** Vite
+- **Сборка:** Webpack
 
 ## Topics
 
